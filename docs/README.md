@@ -1,3 +1,6 @@
-# Headline
+# Novel Chains
 
-> An awesome project.
+Create dreams with your friends!
+
+## Index
+[Specter](./Specter)
