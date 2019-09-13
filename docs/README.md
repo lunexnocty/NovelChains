@@ -3,6 +3,6 @@
 Create dreams with your friends!
 
 ## Index
-[Specter](Specter/)
+[幽灵观察日记](Specter/)
 
 [星の精霊使い](Starelf/)
