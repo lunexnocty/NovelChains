@@ -14,7 +14,7 @@ tags:
 
 [toc]
 
-## Capture &#8545;: Discrete World
+## Capture &#8545;: Initialization
 ### 
 
 「为什么我会答应呢？」
