@@ -1,8 +1,3 @@
-# Star Elf
-星の精霊使い
-协作者：灯夜
+# S日语学习
 
-## [Setting](Starelf/Settings)
-## [Prologue](Starelf/Prologue)
-## [Capture_01](Starelf/Capture_01)
-## [Capture_02](Starelf/Capture_02)
+## [日语之森](Japanese/日本語の森)
